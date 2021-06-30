@@ -17,7 +17,7 @@ I am a Computer Network Engineer in Baton Rouge.
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/real.tyler.vilo)
 
-[<img align="left" alt="reddit" src="https://img.shields.io/reddit/user-karma/combined/InternationalBoss107?label=REDDIT&logo=reddit&logoColor=white&style=for-the-badge" />](https://www.reddit.com/user/InternationalBoss107)![image](https://user-images.githubusercontent.com/6380332/123961374-e3222980-d975-11eb-83a2-c67807a3a922.png)
+[<img align="left" alt="reddit" src="https://img.shields.io/reddit/user-karma/combined/InternationalBoss107?label=REDDIT&logo=reddit&logoColor=white&style=for-the-badge" />](https://www.reddit.com/user/InternationalBoss107)
 
 <br>
 <br>
