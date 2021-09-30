@@ -1,7 +1,5 @@
 ### Hello World 👋
 I am a Computer Network Engineer in Baton Rouge.
-- 🔭 Working on multiple frontend and backend projects using Python and PostgreSQL.
-- 🌱 Learning design patterns in depth
 <br>
 <!--
 **tvilo/tvilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
