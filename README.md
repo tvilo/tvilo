@@ -11,6 +11,8 @@ Network Engineering.
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11678616/tvilo)
 
-[<img align="left" alt="reddit" src="https://img.shields.io/reddit/user-karma/combined/InternationalBoss107?label=REDDIT&logo=reddit&logoColor=white&style=for-the-badge" />](https://www.reddit.com/user/InternationalBoss107/)
+[<img align="left" alt="reddit" src="https://img.shields.io/reddit/subreddit-subscribers/InternationalBoss107?style=for-the-badge&logo=reddit&logoColor=white" />](https://www.reddit.com/user/InternationalBoss107/)
+
+
 <br>
 <br>
